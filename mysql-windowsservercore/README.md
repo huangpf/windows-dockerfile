@@ -11,9 +11,6 @@ Windows Server Core Base OS Image
 **Docker Build**
 Docker Build –t mysql .
 
-**Docker Run** 
-Docker Run –d –p 80:80 apache-php-windows
-
 ## Dockerfile Details:
 ```
 FROM windowsservercore
