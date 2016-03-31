@@ -9,6 +9,7 @@ Windows Server Core Base OS Image
 # Usage:
 
 **Docker Build**
+
 `Docker Build –t mysql .`
 
 **Docker Run**
